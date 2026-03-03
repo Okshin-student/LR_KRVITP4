@@ -4,5 +4,5 @@ using namespace std;
 int main()
 {
 	setlocale(LC_ALL, "Russian");
-cout << "Это лабораторная работа #4!\n";
+cout << "Это мастер-ветка лабораторной работы #4!\n";
 }
